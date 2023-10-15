@@ -1,0 +1,107 @@
+#container
+{
+	width: 90%;
+	/*border: 1px solid black;*/
+	margin: auto;
+}
+#header
+{
+	width: 100%;
+	height: 180px;
+}
+#logo
+{
+	width: 4%;
+	height: 40%;
+	padding:30px;
+	margin-top:30px;
+}
+#header h1
+{
+	margin-left: 700px;
+	margin-top: -130px;
+	color: red;
+}
+#list ul li 
+{
+	display: inline-block;
+	margin-left: 135px;
+}
+#btn
+{
+	/*border: 1px solid black;*/
+    padding: 18px;
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 15px;
+}
+#banner
+{
+	width: 100%;
+	height: 600px;
+	/*border: 1px solid black;*/
+}
+.brand 
+{
+	width: 49.87%;
+	/*border: 1px solid black;*/
+	height: 800px;
+	float: left;
+}
+.bnr 
+{
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 100%;
+}
+.text1
+{
+  position: absolute;
+  top: 15%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+}
+
+.bnd 
+{
+	height:399.6px;
+	border: 1px solid gray;
+	width: 100%;
+}
+.bnd h2 
+{
+	text-align: center;
+	font-size: 60px;
+	margin-top: 60px;
+}
+.bnd h5
+{
+	text-align: center;
+	margin-top: -30px;
+	font-size: 20px;
+}
+.bnd button 
+{
+	margin-left: 320px;
+	padding: 20px;
+	font-size: 20px;
+	color: gray;
+}
+#bnd1 
+{
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 100%;
+}
+.text
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+}
